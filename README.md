@@ -9,4 +9,4 @@ The paper has inferred k different probabilistic memberships shared by 2 differe
 ## The Structure and Stability of Lobbying Networks in Washington 
 - we use social network analysis (SNA) techniques to estimate the centrality of each issue area
 - The time-series nature of our data set allows us to assess the dynamics of issue area centrality over time.
-:: Passive dynamics :: One method applied for several time series is named in Passive Dynamics
+:: Passive dynamics :: One method applied over several time serial zone is named as Passive Dynamics
