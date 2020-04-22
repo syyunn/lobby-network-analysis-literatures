@@ -7,6 +7,9 @@ Assort any lobby-network-analysis papers to main the academic continuity
 The paper has inferred k different probabilistic memberships shared by 2 different types of actors from the observed frequency of how many times the two different types of actors has interacted.
 
 ## The Structure and Stability of Lobbying Networks in Washington 
+### Main 
+calculating centrality dynamically - degree and eigen's one.
+
 - we use social network analysis (SNA) techniques to estimate the centrality of each issue area
 - The time-series nature of our data set allows us to assess the dynamics of issue area centrality over time.
 :: Passive dynamics :: One method applied over several time serial zone is named as Passive Dynamics
