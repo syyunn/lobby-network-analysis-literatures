@@ -21,3 +21,6 @@ Graph Centrality
 
 ## The Multiplex Network of EU Lobby Organizations
 We find that the network centrality of lobby organizations has no simple relation with their lobbying budget
+
+## Whom to Lobby? Targeting in Political Networks∗
+http://www.columbia.edu/~tg2451/research/Whom_to_Lobby_August2016_online.pdf
