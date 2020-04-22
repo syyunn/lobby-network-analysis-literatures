@@ -20,5 +20,4 @@ Graph Centrality
 - (Network Centrality)[https://en.wikipedia.org/wiki/Centrality]
 
 ## The Multiplex Network of EU Lobby Organizations
-
-
+We find that the network centrality of lobby organizations has no simple relation with their lobbying budget
