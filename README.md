@@ -10,6 +10,6 @@ The paper has inferred k different probabilistic memberships shared by 2 differe
 - we use social network analysis (SNA) techniques to estimate the centrality of each issue area
 - The time-series nature of our data set allows us to assess the dynamics of issue area centrality over time.
 :: Passive dynamics :: One method applied over several time serial zone is named as Passive Dynamics
-
+- (Network Centrality)[https://en.wikipedia.org/wiki/Centrality]
 ## Is It Whom You Know or What You Know? An Empirical Assessment of the Lobbying Process
 
