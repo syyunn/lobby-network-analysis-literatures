@@ -18,5 +18,7 @@ Graph Centrality
 - The time-series nature of our data set allows us to assess the dynamics of issue area centrality over time.
 :: Passive dynamics :: One method applied over several time serial zone is named as Passive Dynamics
 - (Network Centrality)[https://en.wikipedia.org/wiki/Centrality]
-## Is It Whom You Know or What You Know? An Empirical Assessment of the Lobbying Process
+
+## The Multiplex Network of EU Lobby Organizations
+
 
